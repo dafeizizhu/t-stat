@@ -1,0 +1,23 @@
+{
+  "name": "t-stat",
+  "version": "1.0.0",
+  "description": "A client for tafstat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafeizizhu/t-stat.git"
+  },
+  "keywords": [
+    "taf",
+    "stat"
+  ],
+  "author": "maizhiying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dafeizizhu/t-stat/issues"
+  },
+  "homepage": "https://github.com/dafeizizhu/t-stat#readme"
+}
