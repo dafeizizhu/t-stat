@@ -21,7 +21,7 @@
     "url": "https://github.com/dafeizizhu/t-stat/issues"
   },
   "homepage": "https://github.com/dafeizizhu/t-stat#readme",
-  "dependecies": {
+  "dependencies": {
     "t-model": "^1.0.0"
   },
   "devDependencies": {
