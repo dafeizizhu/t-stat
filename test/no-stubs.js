@@ -5,7 +5,7 @@ const { TClient } = require('t-rpc')
 
 const TStat = require('../index')
 
-describe('TStat', () => {
+describe.skip('TStat', () => {
   it('test', done => {
     let tConfig = TConfig.parseFile(process.env.TAF_PROD_CONFIG)
     let tClient = new TClient(tConfig)
