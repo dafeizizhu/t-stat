@@ -3,9 +3,9 @@
 const { TConfig } = require('t-util')
 const { TClient } = require('t-rpc')
 
-const TStat = require('../index')
+const TStat = require('../../lib/t-stat')
 
-describe.skip('TStat', () => {
+describe('TStat', () => {
   it('test', done => {
     let tConfig = TConfig.parseFile(process.env.TAF_PROD_CONFIG)
     let tClient = new TClient(tConfig)
