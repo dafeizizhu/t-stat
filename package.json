@@ -1,6 +1,6 @@
 {
   "name": "t-stat",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A client for tafstat server",
   "main": "index.js",
   "scripts": {
